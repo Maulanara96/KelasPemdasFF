@@ -1,0 +1,1 @@
+print("NRP : 152022162 Nama : Maulana Ramadhan")
