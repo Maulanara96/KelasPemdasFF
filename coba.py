@@ -1,0 +1,5 @@
+print ("152022162")
+print ("Maulana Ramadhan")
+print ("Cobain")
+print ("KelasFF")
+print ("halo")
